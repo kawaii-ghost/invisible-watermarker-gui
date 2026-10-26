@@ -1,8 +1,8 @@
-"""Tkinter front end for invisible-watermarker (ArtShield).
+"""Tkinter front end for invisible-watermarker that used in ArtShield.
 
 Run it from the repository root (the watermarking code is bundled in
 third_party/invisible-watermarker/):
-    python artshield_gui.py
+    python proteccart.py
 
 Dependencies: numpy, pillow, pywavelets, and tkinter (bundled with Python;
 some distros package it separately, e.g. python3-tkinter).

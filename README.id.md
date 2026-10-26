@@ -1,4 +1,4 @@
-# ArtShield Watermarker GUI
+# ProtectArt
 
 [English](README.md) | Bahasa Indonesia
 
@@ -40,7 +40,7 @@ Struktur repo:
 
 ```
 .
-├── artshield_gui.py
+├── protectart.py
 ├── third_party/
 │   └── invisible-watermarker/   # kode upstream (MIT), lihat NOTICE
 │       ├── LICENSE
@@ -64,7 +64,7 @@ Di Windows, `tkinter` biasanya sudah termasuk dalam installer Python resmi.
 ## Cara Pakai
 
 ```bash
-python artshield_gui.py
+python protectart.py
 ```
 
 **Tab Encode**
