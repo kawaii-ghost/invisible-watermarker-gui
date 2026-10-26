@@ -4,7 +4,7 @@
 
 Front end Tkinter (antarmuka berbahasa Inggris) untuk menjalankan [ArtShield invisible watermarker](https://artshield.io/watermarker) secara lokal. Gambar tidak diunggah ke server mana pun, dan prosesnya hanya memakai CPU.
 
-![Tampilan aplikasi](img/Screenshot%202026-10-24%20052854.jxl)
+![Tampilan aplikasi](img/HVWe1BnasAAlh2a.jpg)
 
 > **Penting:** watermark ini bukan perlindungan yang kuat terhadap AI scraping atau training. Baca bagian [Batasan dan Hasil Uji](#batasan-dan-hasil-uji) sebelum mengandalkannya.
 

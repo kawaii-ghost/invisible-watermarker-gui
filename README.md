@@ -4,7 +4,7 @@ English | [Bahasa Indonesia](README.id.md)
 
 A Tkinter front end for running the [ArtShield invisible watermarker](https://artshield.io/watermarker) locally. Your images are never uploaded anywhere and everything runs on the CPU.
 
-![App screenshot](img/Screenshot%202026-10-24%20052854.jxl)
+![App screenshot](img/HVWe1BnasAAlh2a.jpg)
 
 > **Important:** this watermark is not strong protection against AI scraping or training. Read [Limitations and Test Results](#limitations-and-test-results) before relying on it.
 
