@@ -1,0 +1,28 @@
+Third-party notices
+===================
+
+This repository bundles third-party code. It is not part of the original work
+in this repository and remains under its own license.
+
+invisible-watermarker
+---------------------
+Path:       third_party/invisible-watermarker/
+Source:     https://github.com/Alcas1/invisible-watermarker
+Copyright:  (c) 2023 Jonathan Wu, Alice Xie
+            (c) 2021 ShieldMnt
+License:    MIT (full text in third_party/invisible-watermarker/LICENSE)
+Snapshot:   <commit hash or download date of the copy you bundled>
+
+The upstream code derives from invisible-watermark by ShieldMnt
+(https://github.com/ShieldMnt/invisible-watermark), also MIT licensed.
+
+What is included
+  - the watermark/ package (source files, byte-identical to the upstream copy)
+  - the upstream LICENSE file
+
+What was removed from the upstream copy
+  - test files (test_*.py)
+  - the benchmark/ and data/ folders (sample images and benchmark script)
+  - Python bytecode caches (__pycache__)
+
+No bundled source file was modified.
